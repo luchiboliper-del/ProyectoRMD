@@ -1,9 +1,11 @@
 ---
 title: "01_primer.Rmd"
+subtitle: "Magic3"
 author: "Lucía Bolívar Pérez b32@uco.es"
 date: "2026-11-18"
 output: 
 html_document: TRUE
+
 ---
 
 ```{r setup, include=FALSE}
